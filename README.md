@@ -1,1 +1,3 @@
 # MyLover_Contract
+初学solidity合约交互时写的合约，已经部署于Goerli测试网；
+合约地址：0xd4D527E4736A69671349bCeBe321342C06afd794
